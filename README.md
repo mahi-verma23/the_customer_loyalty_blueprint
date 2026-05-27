@@ -27,12 +27,12 @@ Instead of only visualizing sales, I explored questions around customer loyalty,
 - Certain products showed strong discount dependency
 - Subscribers demonstrated stronger purchasing consistency
   
-- ## Business Recommendations
+## Business Recommendations
 - Increase discounts on low-performing categories
 - Target subscription offers to repeat buyers
 - Promote top-rated products during seasonal peaks
 
-- ## Skills Demonstrated and Tech stack used
-SQL • Window Functions • CTEs • Data Cleaning • Power BI • Customer Segmentation • KPI Reporting • Data Visualization • Business Analysis
-Power BI
-Python(pandas,jupyter)
+## Skills Demonstrated and Tech stack used
+-SQL • Window Functions • CTEs • Data Cleaning • Power BI • Customer Segmentation • KPI Reporting • Data Visualization • Business Analysis
+-Power BI
+-Python(pandas,jupyter)
